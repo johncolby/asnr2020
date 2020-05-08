@@ -1,0 +1,10 @@
+xaringan::moon_reader:
+  nature:
+    countIncrementalSlides: false
+    slideNumberFormat: |
+      <div class="progress-bar-container">
+        <div class="progress-bar" style="width: calc(calc(%current% - 1) / calc(%total% - 1) * 100%);">
+        </div>
+      </div>
+    ratio: "16:10"
+  css: [default, 'default-fonts', 'style.css']

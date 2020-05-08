@@ -1,0 +1,17 @@
+---
+title: "Title"
+subtitle: ""
+author: "John Colby, MD, PhD"
+institute: "UCSF"
+date: "Updated: `r format(Sys.time(), '%B %d, %Y')`"
+
+---
+# Headline
+
+```{r xaringan-logo, echo=FALSE}
+xaringanExtra::use_logo(
+  image_url = "img/logo.png",
+  link_url = 'https://radiology.ucsf.edu',
+  position = xaringanExtra::css_position(bottom = "-1.5em", right = "1em")
+)
+```
