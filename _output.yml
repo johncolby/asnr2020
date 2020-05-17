@@ -6,5 +6,5 @@ xaringan::moon_reader:
         <div class="progress-bar" style="width: calc(calc(%current% - 1) / calc(%total% - 1) * 100%);">
         </div>
       </div>
-    ratio: "16:10"
+    ratio: "16:9"
   css: [default, 'default-fonts', 'style.css']
