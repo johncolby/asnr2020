@@ -11,7 +11,7 @@ ASNR 2020 annual meeting (oral presentation #1717)
 * Slides are hosted on github.io: https://johncolby.github.io/asnr2020
 * Video presentation is hosted on vimeo: https://vimeo.com/419503226 (also embedded in the slideshow, above)
 * PDF snapshots of the slides are included in this repository: [asnr2020.pdf](asnr2020.pdf)
-* Conference website
+* ePoster is also publicly available on the conference website: [American Society of Neuroradiology (ASNR) 58th Annual Meeting 2020](https://www.morressier.com/article/endtoend-automated-medical-image-analysis-ucsf-clinical-pacs/5e8335ba7cb08a046ef7c700)
 
 ## Repository links
 
